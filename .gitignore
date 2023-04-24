@@ -128,3 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+/backend_sanity/node_modules
+/backend_sanity/node_modules/
+/.pnp
