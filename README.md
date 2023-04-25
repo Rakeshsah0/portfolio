@@ -34,7 +34,7 @@ This project was created using the following technologies:
 * JavaScript  
 * Git/GitHub  
 
-#Contributing  
+# Contributing  
 Contributions to this project are welcome! To contribute, follow these steps:  
 
 Fork the repository on GitHub.  
